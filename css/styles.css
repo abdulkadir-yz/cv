@@ -84,6 +84,8 @@ h3{
 }
 
 .bottom-cloud{
+    max-width: 100%;
+    height: auto;
     position: absolute;
     left: 300px;
     bottom: 300px;
@@ -101,6 +103,8 @@ h3{
 }
 
 .top-cloud{
+    max-width: 100%;
+    height: auto;
     position: absolute;
     right: 300px;
     top: 50px;
