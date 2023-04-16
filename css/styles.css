@@ -18,6 +18,7 @@ h1{
     font-weight: normal;
 }
 .montain{
+    max-width: 100%;
     height: auto;
 }
 
@@ -75,9 +76,6 @@ h3{
     
 }
 
-.middle-container{
-    
-}
 .bottom-container social{
     background-color: #D3DEDC;
     display: flex;
